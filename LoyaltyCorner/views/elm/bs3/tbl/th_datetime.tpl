@@ -1,0 +1,1 @@
+{include file="{$sys.uix.elm}/tbl/th_col.tpl" type="date" format="{$format|default:'DD-MM-YYYY[<br/>]HH:mm'}"}

@@ -1,0 +1,1 @@
+<td class="nowrap text-{$align|default:'left'}">{$i.$name|phone_format}</td>

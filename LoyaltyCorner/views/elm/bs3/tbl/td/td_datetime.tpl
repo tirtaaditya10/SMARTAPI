@@ -1,0 +1,1 @@
+<td class="nowrap text-{$align|default:'left'}">{$i.$name|date_format:"%d-%b-%Y<br/>%H:%I"}</td>

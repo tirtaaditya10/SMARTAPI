@@ -1,0 +1,1 @@
+<td class="text-{$align|default:'left'}">{$i.created_on|date_format:"%d-%b-%Y<br/>%H:%I"}</td>

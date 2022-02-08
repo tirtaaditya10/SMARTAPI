@@ -1,0 +1,1 @@
+<td class="nowrap text-{$align|default:'left'}">{$i.children_birthday|date_format:"%d-%b-%Y"}{if isset($i.$xtd)}<br/><em>{$i.$xtd}</em>{/if}</td>

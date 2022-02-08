@@ -1,0 +1,1 @@
+<td class="nowrap text-{$align|default:'left'}"><i class="fa fa-calendar"> {$i.$when|date_format:"%d-%b-%Y %H:%I"}{if $i.$who}<br><i class="fa fa-user"></i> <em>{$i.$who}</em>{/if}</td>

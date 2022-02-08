@@ -1,0 +1,1 @@
+{include file="{$sys.uix.elm}/tbl/th_col.tpl" type="number" width="75px" decimal="{$decimal|default:'.'}" thousand="{$thousand|default:'.'}"}
