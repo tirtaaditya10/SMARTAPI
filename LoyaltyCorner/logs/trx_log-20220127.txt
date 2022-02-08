@@ -1,0 +1,336 @@
+
+2022-01-27 22:40:19
+loyalty
+{
+    "Host": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Client-IP": "103.43.45.16",
+    "X-Client-Port": "47542",
+    "Connection": "Keep-Alive",
+    "Content-Length": "7216",
+    "Cache-Control": "no-cache",
+    "Content-Type": "multipart\/form-data; boundary=----WebKitFormBoundaryqpkPtG3AWra2onEq",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjQzMjk3OTc1LCJleHAiOjE2NDMzMDE1NzV9.n2x5I_2jgh27UgvwlK9JquugMpElsQhSD2KXrZh5Sos",
+    "Cookie": "ci_session=7466ff917a0a654e569f3e7ac0d45fe71f1621bc",
+    "Max-Forwards": "10",
+    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/97.0.4692.99 Safari\/537.36",
+    "sec-ch-ua": "\" Not;A Brand\";v=\"99\", \"Google Chrome\";v=\"97\", \"Chromium\";v=\"97\"",
+    "sec-ch-ua-mobile": "?0",
+    "command": "receipt_upload",
+    "Postman-Token": "385e546e-09ef-0d9b-9ce1-97aebafa4b97",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "Origin": "chrome-extension:\/\/fhbjgbiflinjbdggehcddcbncdddomop",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "103.43.45.16:47542",
+    "X-ARR-LOG-ID": "624d3033-fb4d-4033-8d3e-9ff77265a44f",
+    "DISGUISED-HOST": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "nidn-dv-loyaidb2c-solution-asse-08-app",
+    "WAS-DEFAULT-HOSTNAME": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "103.43.45.16:47542",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "customer_id": "1",
+    "receipt_ref": "1"
+}
+{
+    "status_code": "130",
+    "data": {
+        "msg": "Upload Error, Failed to move uploaded file"
+    }
+}
+
+2022-01-27 22:40:45
+loyalty
+{
+    "Host": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Client-IP": "103.43.45.16",
+    "X-Client-Port": "47542",
+    "Connection": "Keep-Alive",
+    "Content-Length": "136589",
+    "Cache-Control": "no-cache",
+    "Content-Type": "multipart\/form-data; boundary=----WebKitFormBoundaryUhgtk1hX7ABcErlQ",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjQzMjk3OTc1LCJleHAiOjE2NDMzMDE1NzV9.n2x5I_2jgh27UgvwlK9JquugMpElsQhSD2KXrZh5Sos",
+    "Cookie": "ci_session=7466ff917a0a654e569f3e7ac0d45fe71f1621bc",
+    "Max-Forwards": "10",
+    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/97.0.4692.99 Safari\/537.36",
+    "sec-ch-ua": "\" Not;A Brand\";v=\"99\", \"Google Chrome\";v=\"97\", \"Chromium\";v=\"97\"",
+    "sec-ch-ua-mobile": "?0",
+    "command": "receipt_upload",
+    "Postman-Token": "7623dd29-f95a-b904-3313-b883ec56ec84",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "Origin": "chrome-extension:\/\/fhbjgbiflinjbdggehcddcbncdddomop",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "103.43.45.16:47542",
+    "X-ARR-LOG-ID": "7efa94ad-2df9-4fd0-bfd4-7c49bbaf1784",
+    "DISGUISED-HOST": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "nidn-dv-loyaidb2c-solution-asse-08-app",
+    "WAS-DEFAULT-HOSTNAME": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "103.43.45.16:47542",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "customer_id": "1",
+    "receipt_ref": "1"
+}
+{
+    "status_code": "130",
+    "data": {
+        "msg": "Upload Error, Failed to move uploaded file"
+    }
+}
+
+2022-01-27 22:44:11
+loyalty
+{
+    "Host": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Client-IP": "103.43.45.16",
+    "X-Client-Port": "57228",
+    "Connection": "Keep-Alive",
+    "Content-Length": "136589",
+    "Cache-Control": "no-cache",
+    "Content-Type": "multipart\/form-data; boundary=----WebKitFormBoundaryX6eRVxj0GB7IFrW3",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjQzMjk3OTc1LCJleHAiOjE2NDMzMDE1NzV9.n2x5I_2jgh27UgvwlK9JquugMpElsQhSD2KXrZh5Sos",
+    "Cookie": "ci_session=7466ff917a0a654e569f3e7ac0d45fe71f1621bc",
+    "Max-Forwards": "10",
+    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/97.0.4692.99 Safari\/537.36",
+    "sec-ch-ua": "\" Not;A Brand\";v=\"99\", \"Google Chrome\";v=\"97\", \"Chromium\";v=\"97\"",
+    "sec-ch-ua-mobile": "?0",
+    "command": "receipt_upload",
+    "Postman-Token": "895b2abd-d054-ba42-69f8-a48a5b634eb1",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "Origin": "chrome-extension:\/\/fhbjgbiflinjbdggehcddcbncdddomop",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "103.43.45.16:57228",
+    "X-ARR-LOG-ID": "298a6eb4-c9f3-41f1-a9d0-39d47c4fbd86",
+    "DISGUISED-HOST": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "nidn-dv-loyaidb2c-solution-asse-08-app",
+    "WAS-DEFAULT-HOSTNAME": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "103.43.45.16:57228",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "customer_id": "1",
+    "receipt_ref": "1"
+}
+{
+    "status_code": "130",
+    "data": {
+        "msg": "Upload Error, Failed to move uploaded file"
+    }
+}
+
+2022-01-27 22:44:39
+loyalty
+{
+    "Host": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Client-IP": "103.43.45.16",
+    "X-Client-Port": "57228",
+    "Connection": "Keep-Alive",
+    "Content-Length": "136589",
+    "Cache-Control": "no-cache",
+    "Content-Type": "multipart\/form-data; boundary=----WebKitFormBoundaryEV2CtqJZlGMfW2zl",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjQzMjk3OTc1LCJleHAiOjE2NDMzMDE1NzV9.n2x5I_2jgh27UgvwlK9JquugMpElsQhSD2KXrZh5Sos",
+    "Cookie": "ci_session=7466ff917a0a654e569f3e7ac0d45fe71f1621bc",
+    "Max-Forwards": "10",
+    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/97.0.4692.99 Safari\/537.36",
+    "sec-ch-ua": "\" Not;A Brand\";v=\"99\", \"Google Chrome\";v=\"97\", \"Chromium\";v=\"97\"",
+    "sec-ch-ua-mobile": "?0",
+    "command": "receipt_upload",
+    "Postman-Token": "0d1dbb21-929d-2450-0334-3b0e7a228cd5",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "Origin": "chrome-extension:\/\/fhbjgbiflinjbdggehcddcbncdddomop",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "103.43.45.16:57228",
+    "X-ARR-LOG-ID": "272beae5-9e42-4113-81c0-19f49436350d",
+    "DISGUISED-HOST": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "nidn-dv-loyaidb2c-solution-asse-08-app",
+    "WAS-DEFAULT-HOSTNAME": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "103.43.45.16:57228",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "customer_id": "1",
+    "receipt_ref": "1"
+}
+{
+    "status_code": "130",
+    "data": {
+        "msg": "Upload Error, Failed to move uploaded file"
+    }
+}
+
+2022-01-27 22:56:29
+loyalty
+{
+    "Host": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Client-IP": "103.43.45.16",
+    "X-Client-Port": "57868",
+    "Connection": "Keep-Alive",
+    "Content-Length": "136589",
+    "Cache-Control": "no-cache",
+    "Content-Type": "multipart\/form-data; boundary=----WebKitFormBoundary9k2MI5YErjAlDuF5",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjQzMjk3OTc1LCJleHAiOjE2NDMzMDE1NzV9.n2x5I_2jgh27UgvwlK9JquugMpElsQhSD2KXrZh5Sos",
+    "Cookie": "ci_session=7466ff917a0a654e569f3e7ac0d45fe71f1621bc",
+    "Max-Forwards": "10",
+    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/97.0.4692.99 Safari\/537.36",
+    "sec-ch-ua": "\" Not;A Brand\";v=\"99\", \"Google Chrome\";v=\"97\", \"Chromium\";v=\"97\"",
+    "sec-ch-ua-mobile": "?0",
+    "command": "receipt_upload",
+    "Postman-Token": "a33026f4-b259-edee-07ce-e4ea487de537",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "Origin": "chrome-extension:\/\/fhbjgbiflinjbdggehcddcbncdddomop",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "103.43.45.16:57868",
+    "X-ARR-LOG-ID": "c07b1b4c-c8d1-42d2-b7e0-0396ed3270d2",
+    "DISGUISED-HOST": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "nidn-dv-loyaidb2c-solution-asse-08-app",
+    "WAS-DEFAULT-HOSTNAME": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "103.43.45.16:57868",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "customer_id": "1",
+    "receipt_ref": "1"
+}
+{
+    "status_code": "130",
+    "data": {
+        "msg": "Upload Error, Failed to move uploaded file"
+    }
+}
+
+2022-01-27 22:56:34
+loyalty
+{
+    "Host": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Client-IP": "103.43.45.16",
+    "X-Client-Port": "57868",
+    "Connection": "Keep-Alive",
+    "Content-Length": "136589",
+    "Cache-Control": "no-cache",
+    "Content-Type": "multipart\/form-data; boundary=----WebKitFormBoundary9j8s9vqn3hV0AsxZ",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjQzMjk3OTc1LCJleHAiOjE2NDMzMDE1NzV9.n2x5I_2jgh27UgvwlK9JquugMpElsQhSD2KXrZh5Sos",
+    "Cookie": "ci_session=7466ff917a0a654e569f3e7ac0d45fe71f1621bc",
+    "Max-Forwards": "10",
+    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/97.0.4692.99 Safari\/537.36",
+    "sec-ch-ua": "\" Not;A Brand\";v=\"99\", \"Google Chrome\";v=\"97\", \"Chromium\";v=\"97\"",
+    "sec-ch-ua-mobile": "?0",
+    "command": "receipt_upload",
+    "Postman-Token": "697c92b9-cb8b-e2e4-11d7-54a3266bdcd7",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "Origin": "chrome-extension:\/\/fhbjgbiflinjbdggehcddcbncdddomop",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "103.43.45.16:57868",
+    "X-ARR-LOG-ID": "92570a90-e564-4eff-a0af-75f0c4816ac8",
+    "DISGUISED-HOST": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "nidn-dv-loyaidb2c-solution-asse-08-app",
+    "WAS-DEFAULT-HOSTNAME": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "103.43.45.16:57868",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "customer_id": "1",
+    "receipt_ref": "1"
+}
+{
+    "status_code": "130",
+    "data": {
+        "msg": "Upload Error, Failed to move uploaded file"
+    }
+}
+
+2022-01-27 22:56:45
+loyalty
+{
+    "Host": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Client-IP": "103.43.45.16",
+    "X-Client-Port": "57868",
+    "Connection": "Keep-Alive",
+    "Content-Length": "14037",
+    "Cache-Control": "no-cache",
+    "Content-Type": "multipart\/form-data; boundary=----WebKitFormBoundaryzHqmOHjifb9qOizc",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjQzMjk3OTc1LCJleHAiOjE2NDMzMDE1NzV9.n2x5I_2jgh27UgvwlK9JquugMpElsQhSD2KXrZh5Sos",
+    "Cookie": "ci_session=7466ff917a0a654e569f3e7ac0d45fe71f1621bc",
+    "Max-Forwards": "10",
+    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/97.0.4692.99 Safari\/537.36",
+    "sec-ch-ua": "\" Not;A Brand\";v=\"99\", \"Google Chrome\";v=\"97\", \"Chromium\";v=\"97\"",
+    "sec-ch-ua-mobile": "?0",
+    "command": "receipt_upload",
+    "Postman-Token": "c4d4c573-4c6f-01e4-8ac8-70bb47a8cec1",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "Origin": "chrome-extension:\/\/fhbjgbiflinjbdggehcddcbncdddomop",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "103.43.45.16:57868",
+    "X-ARR-LOG-ID": "10ef0c06-8e33-44b8-9b1c-aa8bf9a59ad0",
+    "DISGUISED-HOST": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "nidn-dv-loyaidb2c-solution-asse-08-app",
+    "WAS-DEFAULT-HOSTNAME": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "103.43.45.16:57868",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "customer_id": "1",
+    "receipt_ref": "1"
+}
+{
+    "status_code": "130",
+    "data": {
+        "msg": "Upload Error, Failed to move uploaded file"
+    }
+}

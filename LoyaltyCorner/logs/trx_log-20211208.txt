@@ -1,0 +1,140 @@
+
+2021-12-08 15:26:07
+loyalty
+{
+    "Host": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Client-IP": "103.43.45.16",
+    "X-Client-Port": "54826",
+    "Connection": "Keep-Alive",
+    "Content-Length": "149",
+    "Cache-Control": "no-cache",
+    "Content-Type": "multipart\/form-data; boundary=----WebKitFormBoundaryVlVQTWQcaMDSvvoE",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM4OTUwNDczLCJleHAiOjE2Mzg5NTQwNzN9._UIp0igAQDaFQQZTXP13HbvG_i73hBznummxEfBzBbQ",
+    "Cookie": "ci_session=078a2ff978271bcd8ff3a0df7af8f3afb1c5af41",
+    "Max-Forwards": "10",
+    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/96.0.4664.45 Safari\/537.36",
+    "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"96\", \"Google Chrome\";v=\"96\"",
+    "sec-ch-ua-mobile": "?0",
+    "command": "ADDRESS_SHIPPING",
+    "Postman-Token": "a5550405-fa74-4e67-9786-2b074a81f75e",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "Origin": "chrome-extension:\/\/fhbjgbiflinjbdggehcddcbncdddomop",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "103.43.45.16:54826",
+    "X-ARR-LOG-ID": "fed20c18-e592-44c6-b981-f890a61efb87",
+    "DISGUISED-HOST": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "nidn-dv-loyaidb2c-solution-asse-08-app",
+    "WAS-DEFAULT-HOSTNAME": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "103.43.45.16:54826",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "customer_id": "1059166"
+}
+{
+    "status_code": "100",
+    "data": {
+        "msg": "Incorrect \/ Insufficient Parameter"
+    }
+}
+
+2021-12-08 15:26:46
+loyalty
+{
+    "Host": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Client-IP": "103.43.45.16",
+    "X-Client-Port": "54826",
+    "Connection": "Keep-Alive",
+    "Content-Length": "149",
+    "Cache-Control": "no-cache",
+    "Content-Type": "multipart\/form-data; boundary=----WebKitFormBoundaryBn5wuN7Ae49zKvjT",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM4OTUwNDczLCJleHAiOjE2Mzg5NTQwNzN9._UIp0igAQDaFQQZTXP13HbvG_i73hBznummxEfBzBbQ",
+    "Cookie": "ci_session=078a2ff978271bcd8ff3a0df7af8f3afb1c5af41",
+    "Max-Forwards": "10",
+    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/96.0.4664.45 Safari\/537.36",
+    "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"96\", \"Google Chrome\";v=\"96\"",
+    "sec-ch-ua-mobile": "?0",
+    "command": "reward_info",
+    "Postman-Token": "e3fed0cd-f820-8e54-4d73-e8a91118cd01",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "Origin": "chrome-extension:\/\/fhbjgbiflinjbdggehcddcbncdddomop",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "103.43.45.16:54826",
+    "X-ARR-LOG-ID": "18066f7f-0678-4f2a-babf-d709f851f004",
+    "DISGUISED-HOST": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "nidn-dv-loyaidb2c-solution-asse-08-app",
+    "WAS-DEFAULT-HOSTNAME": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "103.43.45.16:54826",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "customer_id": "1059166"
+}
+{
+    "status_code": "160",
+    "data": {
+        "msg": "Reward not Available"
+    }
+}
+
+2021-12-08 19:20:38
+loyalty
+{
+    "Host": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Client-IP": "103.43.45.16",
+    "X-Client-Port": "55816",
+    "Connection": "Keep-Alive",
+    "Content-Length": "149",
+    "Cache-Control": "no-cache",
+    "Content-Type": "multipart\/form-data; boundary=----WebKitFormBoundaryDgXChFDtyRodbPWo",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM4OTUwNDczLCJleHAiOjE2Mzg5NTQwNzN9._UIp0igAQDaFQQZTXP13HbvG_i73hBznummxEfBzBbQ",
+    "Max-Forwards": "10",
+    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/96.0.4664.45 Safari\/537.36",
+    "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"96\", \"Google Chrome\";v=\"96\"",
+    "sec-ch-ua-mobile": "?0",
+    "command": "request_token",
+    "Postman-Token": "6edb6336-4962-0345-65e4-dca85fece4db",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "Origin": "chrome-extension:\/\/fhbjgbiflinjbdggehcddcbncdddomop",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "103.43.45.16:55816",
+    "X-ARR-LOG-ID": "20db6093-9ce2-48d5-a8dc-e5c8f3b4b5cd",
+    "DISGUISED-HOST": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "nidn-dv-loyaidb2c-solution-asse-08-app",
+    "WAS-DEFAULT-HOSTNAME": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "103.43.45.16:55816",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "customer_id": "1059166"
+}
+{
+    "status_code": "100",
+    "data": {
+        "msg": "Incorrect \/ Insufficient Parameter"
+    }
+}

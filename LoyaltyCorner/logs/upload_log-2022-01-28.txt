@@ -1,0 +1,10 @@
+2022-01-28 09:55:43
+arr: {
+    "receipt_file": {
+        "name": "myblob.jpg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpqhwfKJ",
+        "error": 0,
+        "size": 13647
+    }
+}

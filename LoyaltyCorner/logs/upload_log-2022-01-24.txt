@@ -1,0 +1,82 @@
+2022-01-24 14:49:06
+arr: {
+    "receipt_file": {
+        "name": "myblob.png",
+        "type": "image\/png",
+        "tmp_name": "\/tmp\/phpGXQR0G",
+        "error": 0,
+        "size": 1826584
+    }
+}2022-01-24 14:49:37
+arr: {
+    "receipt_file": {
+        "name": "myblob.png",
+        "type": "image\/png",
+        "tmp_name": "\/tmp\/phpVW1RU8",
+        "error": 0,
+        "size": 1826584
+    }
+}2022-01-24 14:50:42
+arr: {
+    "receipt_file": {
+        "name": "myblob.png",
+        "type": "image\/png",
+        "tmp_name": "\/tmp\/phpQzuTDz",
+        "error": 0,
+        "size": 1826584
+    }
+}2022-01-24 14:51:29
+arr: {
+    "receipt_file": {
+        "name": "myblob.png",
+        "type": "image\/png",
+        "tmp_name": "\/tmp\/phpmzgAlx",
+        "error": 0,
+        "size": 1826584
+    }
+}2022-01-24 14:51:59
+arr: {
+    "receipt_file": {
+        "name": "myblob.png",
+        "type": "image\/png",
+        "tmp_name": "\/tmp\/phpy1Tkrm",
+        "error": 0,
+        "size": 1826584
+    }
+}2022-01-24 14:52:41
+arr: {
+    "receipt_file": {
+        "name": "myblob.png",
+        "type": "image\/png",
+        "tmp_name": "\/tmp\/php9e3hfD",
+        "error": 0,
+        "size": 1826584
+    }
+}2022-01-24 14:53:04
+arr: {
+    "receipt_file": {
+        "name": "myblob.png",
+        "type": "image\/png",
+        "tmp_name": "\/tmp\/phpa3PfJH",
+        "error": 0,
+        "size": 1826584
+    }
+}2022-01-24 14:53:44
+arr: {
+    "receipt_file": {
+        "name": "myblob.png",
+        "type": "image\/png",
+        "tmp_name": "\/tmp\/phphTPLSj",
+        "error": 0,
+        "size": 1826584
+    }
+}2022-01-24 14:58:03
+arr: {
+    "receipt_file": {
+        "name": "myblob.png",
+        "type": "image\/png",
+        "tmp_name": "\/tmp\/phpsFfYvx",
+        "error": 0,
+        "size": 1826584
+    }
+}

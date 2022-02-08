@@ -1,0 +1,64 @@
+2021-12-10 00:24:20
+arr: {
+    "receipt_file": {
+        "name": "STRUK.png",
+        "type": "image\/png",
+        "tmp_name": "\/tmp\/phpD94hEd",
+        "error": 0,
+        "size": 1826604
+    }
+}2021-12-10 01:49:37
+arr: {
+    "receipt_file": {
+        "name": "STRUK.png",
+        "type": "image\/png",
+        "tmp_name": "\/tmp\/php31kXzI",
+        "error": 0,
+        "size": 1826604
+    }
+}2021-12-10 01:49:54
+arr: {
+    "receipt_file": {
+        "name": "STRUK.png",
+        "type": "image\/png",
+        "tmp_name": "\/tmp\/phprxjIL8",
+        "error": 0,
+        "size": 1826604
+    }
+}2021-12-10 01:51:50
+arr: {
+    "receipt_file": {
+        "name": "STRUK.png",
+        "type": "image\/png",
+        "tmp_name": "\/tmp\/phpSQtfhh",
+        "error": 0,
+        "size": 1826604
+    }
+}2021-12-10 02:02:36
+arr: {
+    "receipt_file": {
+        "name": "STRUK.png",
+        "type": "image\/png",
+        "tmp_name": "\/tmp\/php6bM4Nn",
+        "error": 0,
+        "size": 1826604
+    }
+}2021-12-10 10:28:40
+arr: {
+    "receipt_file": {
+        "name": "STRUK.png",
+        "type": "image\/png",
+        "tmp_name": "\/tmp\/phprWyDhp",
+        "error": 0,
+        "size": 1826604
+    }
+}2021-12-10 10:31:57
+arr: {
+    "receipt_file": {
+        "name": "72B45B842934E641652767C6465C5C9E.png",
+        "type": "image\/png",
+        "tmp_name": "\/tmp\/phpYq2M10",
+        "error": 0,
+        "size": 1096884
+    }
+}

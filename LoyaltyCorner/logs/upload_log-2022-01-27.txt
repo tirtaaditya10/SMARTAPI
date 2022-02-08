@@ -1,0 +1,100 @@
+2022-01-27 22:40:19
+arr: {
+    "receipt_file": {
+        "name": "Age6.png",
+        "type": "image\/png",
+        "tmp_name": "\/tmp\/phpYnGOe4",
+        "error": 0,
+        "size": 6829
+    }
+}2022-01-27 22:40:45
+arr: {
+    "receipt_file": {
+        "name": "WhatsApp Image 2022-01-18 at 16.23.06.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phphQrRO5",
+        "error": 0,
+        "size": 136167
+    }
+}2022-01-27 22:44:10
+arr: {
+    "receipt_file": {
+        "name": "WhatsApp Image 2022-01-18 at 16.23.06.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phplxWxFf",
+        "error": 0,
+        "size": 136167
+    }
+}2022-01-27 22:44:39
+arr: {
+    "receipt_file": {
+        "name": "WhatsApp Image 2022-01-18 at 16.23.06.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpealGGr",
+        "error": 0,
+        "size": 136167
+    }
+}2022-01-27 22:46:04
+arr: {
+    "receipt_file": {
+        "name": "WhatsApp Image 2022-01-18 at 16.23.06.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpU7V8km",
+        "error": 0,
+        "size": 136167
+    }
+}2022-01-27 22:56:28
+arr: {
+    "receipt_file": {
+        "name": "WhatsApp Image 2022-01-18 at 16.23.06.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpJ5GPp9",
+        "error": 0,
+        "size": 136167
+    }
+}2022-01-27 22:56:34
+arr: {
+    "receipt_file": {
+        "name": "WhatsApp Image 2022-01-18 at 16.23.06.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpB4wu9X",
+        "error": 0,
+        "size": 136167
+    }
+}2022-01-27 22:56:44
+arr: {
+    "receipt_file": {
+        "name": "myblob.jpg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpGUIsCv",
+        "error": 0,
+        "size": 13647
+    }
+}2022-01-27 22:58:10
+arr: {
+    "receipt_file": {
+        "name": "myblob.jpg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpmWmmkL",
+        "error": 0,
+        "size": 13647
+    }
+}2022-01-27 22:58:46
+arr: {
+    "receipt_file": {
+        "name": "myblob.jpg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/php7JZ3de",
+        "error": 0,
+        "size": 13647
+    }
+}2022-01-27 23:05:54
+arr: {
+    "receipt_file": {
+        "name": "myblob.jpg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpr6A2NH",
+        "error": 0,
+        "size": 13647
+    }
+}
