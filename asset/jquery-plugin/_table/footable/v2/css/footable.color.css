@@ -1,0 +1,122 @@
+.footable > caption {
+	text-align:left;
+	font-size: 1.25em;
+	font-weight: bold;
+	padding: 10px 20px;
+}
+
+.footable > thead > tr > th {
+	text-align: center;
+	color: white;
+}
+.footable > tfoot > tr > th {
+	color: white;
+}
+
+.footable > thead > tr.blue > th,
+.footable > tbody > tr.blue > th,
+.footable > tfoot > tr.blue > th {
+	background-color: #0072C6;
+}
+
+.footable > thead > tr.light_blue > th,
+.footable > tbody > tr.light_blue > th,
+.footable > tfoot > tr.light_blue > th {
+	background-color: #5db2ff;
+}
+
+.footable > thead > tr.dark_blue > th,
+.footable > tbody > tr.dark_blue > th,
+.footable > tfoot > tr.dark_blue > th {
+	background-color: #001940;
+}
+
+.footable > thead > tr.grey > th,
+.footable > tbody > tr.grey > th,
+.footable > tfoot > tr.grey > th {
+	background-color: #585858;
+}
+
+.footable > thead > tr.dark_grey > th,
+.footable > tbody > tr.dark_grey > th,
+.footable > tfoot > tr.dark_grey > th {
+	background-color: #1f1f1f;
+}
+
+.footable > thead > tr.pink > th,
+.footable > tbody > tr.pink > th,
+.footable > tfoot > tr.pink > th {
+	background-color: #dc4fad;
+}
+
+.footable > thead > tr.red > th,
+.footable > tbody > tr.red > th,
+.footable > tfoot > tr.red > th {
+	background-color: #ac193d;
+}
+
+.footable > thead > tr.dark_red > th,
+.footable > tbody > tr.dark_red > th,
+.footable > tfoot > tr.dark_red > th {
+	background-color: #570000;
+}
+
+.footable > thead > tr.orange > th,
+.footable > tbody > tr.orange > th,
+.footable > tfoot > tr.orange > th {
+	background-color: #d24726;
+}
+
+.footable > thead > tr.yellow > th,
+.footable > tbody > tr.yellow > th,
+.footable > tfoot > tr.yellow > th {
+	background-color: #ff8f32;
+}
+
+.footable > thead > tr.green > th,
+.footable > tbody > tr.green > th,
+.footable > tfoot > tr.green > th {
+	background-color: #a7c88c;
+}
+
+.footable > thead > tr.dark_green > th,
+.footable > tbody > tr.dark_green > th,
+.footable > tfoot > tr.dark_green > th {
+	background-color: #82ba00;
+}
+
+.footable > thead > tr.turq > th,
+.footable > tbody > tr.turq > th,
+.footable > tfoot > tr.turq > th {
+	background-color: #03b3b2;
+}
+
+.footable > thead > tr.dark_turq > th,
+.footable > tbody > tr.dark_turq > th,
+.footable > tfoot > tr.dark_turq > th {
+	background-color: #008299;
+}
+
+.footable > thead > tr.purple > th,
+.footable > tbody > tr.purple > th,
+.footable > tfoot > tr.purple > th {
+	background-color: #4617b4;
+}
+
+.footable > thead > tr.violet > th,
+.footable > tbody > tr.violet > th,
+.footable > tfoot > tr.violet > th {
+	background-color: #8c0095;
+}
+
+.footable > thead > tr.brown > th,
+.footable > tbody > tr.brown > th,
+.footable > tfoot > tr.brown > th {
+	background-color: #380000;
+}
+
+.footable > thead > tr.black > th,
+.footable > tbody > tr.black > th,
+.footable > tfoot > tr.black > th {
+	background-color: #000000;
+}
