@@ -1,0 +1,4 @@
+
+Sending To: 08999188009. At: 2021-12-09 10:55:20. ERROR, with details Invalid Token
+Log Sending To: 08999188009. At: 2021-12-09 10:56:33. Success, with MSGID EXEC SP_WA_API_MSG_OUT_LOG @AccID=101,@RefID=NULL, @WAID ='08999188009', @MSGID='DRQMS3DRPKIwS2qWtNdLg7bb', @Timestamp= 1639047392, @Msg= '', @WAToSendID=2
+Sending To: 08999188009. At: 2021-12-09 10:56:33. Success, with MSGID DRQMS3DRPKIwS2qWtNdLg7bb
