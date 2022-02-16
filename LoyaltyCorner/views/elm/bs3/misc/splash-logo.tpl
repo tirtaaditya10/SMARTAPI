@@ -1,0 +1,160 @@
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<div class="box active" style="background-image: url(assets/img/logoSMI.png);"></div>
+<link rel="stylesheet" type="text/css" href="assets/css/library/splash/explode.css" />
+<script src='assets/js/library/underscore-min.js'></script>
+<script>
+<!--
+jQuery(function($) {
+	loading = false;
+	function splash() {
+		$('.box.active').removeClass('active');
+		setTimeout(function() {
+			$('#wrapper').load(site+'aux/splash/period');
+		}, 1500);
+	}
+	setTimeout(splash, 4000);
+});
+-->
+</script>

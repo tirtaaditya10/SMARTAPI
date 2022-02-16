@@ -1,0 +1,1 @@
+<td class="text-{$align|default:'left'}">{$i.$first|date_format:"%d-%b-%Y"}{if $i.$second}<br><em>{$i.$second}</em>{/if}</td>

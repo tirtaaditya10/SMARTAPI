@@ -1,0 +1,1 @@
+@"C:\Program Files (x86)\Ampps\php-7.1\php.exe" "%~dp0composer.phar" %*

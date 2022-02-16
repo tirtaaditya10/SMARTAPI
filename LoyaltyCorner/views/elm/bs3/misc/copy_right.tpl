@@ -1,0 +1,1 @@
+<span class="txt-color-yellow-casablanca small"> 2017 &copy;</span> <a class="small" href="http://www.telkomsel.com">PT. Telekomunikasi Selular</a> | <a class="small" href="#privacy">Privacy Policy</a> | <a class="small" href="#tos">Terms of Service</a>

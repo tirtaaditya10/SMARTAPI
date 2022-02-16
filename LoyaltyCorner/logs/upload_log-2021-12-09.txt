@@ -1,0 +1,10 @@
+2021-12-09 23:15:30
+arr: {
+    "receipt_file": {
+        "name": "STRUK.png",
+        "type": "image\/png",
+        "tmp_name": "\/tmp\/phpAdH5jk",
+        "error": 0,
+        "size": 1826604
+    }
+}

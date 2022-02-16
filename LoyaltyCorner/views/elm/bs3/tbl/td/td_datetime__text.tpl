@@ -1,0 +1,1 @@
+<td class="text-{$align|default:'left'}">{$i.$when|date_format:"%d-%b-%Y %H:%I"}{if $i.$info}<br><em>{$i.$info}</em>{/if}</td>

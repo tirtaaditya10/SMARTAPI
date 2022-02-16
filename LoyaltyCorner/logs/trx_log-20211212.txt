@@ -1,0 +1,235 @@
+
+2021-12-12 23:12:34
+loyalty
+{
+    "Host": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Client-IP": "103.43.45.16",
+    "X-Client-Port": "40962",
+    "Connection": "Keep-Alive",
+    "Content-Length": "44",
+    "Cache-Control": "no-cache",
+    "Content-Type": "multipart\/form-data; boundary=----WebKitFormBoundaryscPc1WUWbJ5KDA24",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Max-Forwards": "10",
+    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/96.0.4664.93 Safari\/537.36",
+    "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"96\", \"Google Chrome\";v=\"96\"",
+    "sec-ch-ua-mobile": "?0",
+    "cpid": "loyaltyweb",
+    "command": "request_token",
+    "cpassword": "loyaltyweb@wcrm!",
+    "Postman-Token": "4fde786f-634d-e853-3108-e202efa45a25",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "Origin": "chrome-extension:\/\/fhbjgbiflinjbdggehcddcbncdddomop",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "103.43.45.16:40962",
+    "X-ARR-LOG-ID": "9612a063-13c8-4ccf-b47c-c346a05f8190",
+    "DISGUISED-HOST": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "nidn-dv-loyaidb2c-solution-asse-08-app",
+    "WAS-DEFAULT-HOSTNAME": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "103.43.45.16:40962",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2"
+}
+{
+    "status_code": "100",
+    "data": {
+        "msg": "Incorrect \/ Insufficient Parameter"
+    }
+}
+
+2021-12-12 23:13:06
+loyalty
+{
+    "Host": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Client-IP": "103.43.45.16",
+    "X-Client-Port": "40962",
+    "Connection": "Keep-Alive",
+    "Content-Length": "44",
+    "Cache-Control": "no-cache",
+    "Content-Type": "multipart\/form-data; boundary=----WebKitFormBoundaryAcQjnlaRSApg8AP5",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Cookie": "ci_session=baaed93e9a3eba06a62573a94f8664bfff07d300",
+    "Max-Forwards": "10",
+    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/96.0.4664.93 Safari\/537.36",
+    "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"96\", \"Google Chrome\";v=\"96\"",
+    "sec-ch-ua-mobile": "?0",
+    "cpid": "loyaltyweb",
+    "command": "REQUEST_TOKEN",
+    "cpassword": "loyaltyweb@wcrm!",
+    "Postman-Token": "a3295302-ed2e-bc06-6e22-835eb7bcb013",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "Origin": "chrome-extension:\/\/fhbjgbiflinjbdggehcddcbncdddomop",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "103.43.45.16:40962",
+    "X-ARR-LOG-ID": "2cc7eb4c-95ec-4f39-93be-1654b809793b",
+    "DISGUISED-HOST": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "nidn-dv-loyaidb2c-solution-asse-08-app",
+    "WAS-DEFAULT-HOSTNAME": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "103.43.45.16:40962",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2"
+}
+{
+    "status_code": "100",
+    "data": {
+        "msg": "Incorrect \/ Insufficient Parameter"
+    }
+}
+
+2021-12-12 23:13:15
+loyalty
+{
+    "Host": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Client-IP": "103.43.45.16",
+    "X-Client-Port": "40962",
+    "Connection": "Keep-Alive",
+    "Content-Length": "44",
+    "Cache-Control": "no-cache",
+    "Content-Type": "multipart\/form-data; boundary=----WebKitFormBoundary8BhMIfRCktwi99fh",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Cookie": "ci_session=baaed93e9a3eba06a62573a94f8664bfff07d300",
+    "Max-Forwards": "10",
+    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/96.0.4664.93 Safari\/537.36",
+    "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"96\", \"Google Chrome\";v=\"96\"",
+    "sec-ch-ua-mobile": "?0",
+    "cpid": "loyaltyweb",
+    "command": "REQUEST_TOKEN",
+    "cpassword": "loyaltyweb@wcrm!",
+    "Postman-Token": "8640a697-f46a-392b-f943-cb8c50216fb0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "Origin": "chrome-extension:\/\/fhbjgbiflinjbdggehcddcbncdddomop",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "103.43.45.16:40962",
+    "X-ARR-LOG-ID": "60123b05-8232-4c0e-8e9d-65e552849e82",
+    "DISGUISED-HOST": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "nidn-dv-loyaidb2c-solution-asse-08-app",
+    "WAS-DEFAULT-HOSTNAME": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "103.43.45.16:40962",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2"
+}
+{
+    "status_code": "100",
+    "data": {
+        "msg": "Incorrect \/ Insufficient Parameter"
+    }
+}
+
+2021-12-12 23:14:03
+loyalty
+{
+    "Host": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Client-IP": "103.43.45.16",
+    "X-Client-Port": "40962",
+    "Connection": "Keep-Alive",
+    "Content-Length": "44",
+    "Cache-Control": "no-cache",
+    "Content-Type": "multipart\/form-data; boundary=----WebKitFormBoundary68AthUHdmi7TmW95",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Cookie": "ci_session=baaed93e9a3eba06a62573a94f8664bfff07d300",
+    "Max-Forwards": "10",
+    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/96.0.4664.93 Safari\/537.36",
+    "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"96\", \"Google Chrome\";v=\"96\"",
+    "sec-ch-ua-mobile": "?0",
+    "cpid": "loyaltyweb",
+    "command": "request_token",
+    "cpassword": "loyaltyweb@wcrm!",
+    "Postman-Token": "7a6b72ec-0eb3-628d-1bb0-103c96ae894b",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "Origin": "chrome-extension:\/\/fhbjgbiflinjbdggehcddcbncdddomop",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "103.43.45.16:40962",
+    "X-ARR-LOG-ID": "68df53e8-a27f-40f0-9bd2-7698c40a5d53",
+    "DISGUISED-HOST": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "nidn-dv-loyaidb2c-solution-asse-08-app",
+    "WAS-DEFAULT-HOSTNAME": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "103.43.45.16:40962",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2"
+}
+{
+    "status_code": "100",
+    "data": {
+        "msg": "Incorrect \/ Insufficient Parameter"
+    }
+}
+
+2021-12-12 23:14:49
+loyalty
+{
+    "Host": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Client-IP": "103.43.45.16",
+    "X-Client-Port": "40962",
+    "Connection": "Keep-Alive",
+    "Content-Length": "257",
+    "Cache-Control": "no-cache",
+    "Content-Type": "multipart\/form-data; boundary=----WebKitFormBoundaryyPzdux2EALIdPMec",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM5MzI1NjUzLCJleHAiOjE2MzkzMjkyNTN9.A_Ah9vOH_zRqZUZ7jIDOfuLdSQ6gQOuMLMUkiaP9EGo",
+    "Cookie": "ci_session=baaed93e9a3eba06a62573a94f8664bfff07d300",
+    "Max-Forwards": "10",
+    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/96.0.4664.93 Safari\/537.36",
+    "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"96\", \"Google Chrome\";v=\"96\"",
+    "sec-ch-ua-mobile": "?0",
+    "command": "tiering_level",
+    "Postman-Token": "dc46eedf-e16d-ae4b-ec9b-3d9adfd661a9",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "Origin": "chrome-extension:\/\/fhbjgbiflinjbdggehcddcbncdddomop",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "103.43.45.16:40962",
+    "X-ARR-LOG-ID": "0d5d460f-8515-4f92-b2d8-acc500780c46",
+    "DISGUISED-HOST": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "nidn-dv-loyaidb2c-solution-asse-08-app",
+    "WAS-DEFAULT-HOSTNAME": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "103.43.45.16:40962",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "cpid": "loyaltyweb",
+    "cpassword": "loyaltyweb@wcrm!"
+}
+{
+    "status_code": "100",
+    "data": {
+        "msg": "Incorrect \/ Insufficient Parameter"
+    }
+}

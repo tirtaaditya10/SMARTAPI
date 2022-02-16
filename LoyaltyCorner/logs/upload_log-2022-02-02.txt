@@ -1,0 +1,64 @@
+2022-02-02 11:16:07
+arr: {
+    "receipt_file": {
+        "name": "1_1643298364.jpg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpeAouKI",
+        "error": 0,
+        "size": 136167
+    }
+}2022-02-02 13:23:40
+arr: {
+    "receipt_file": {
+        "name": "1_1643298364.jpg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpaz4cZF",
+        "error": 0,
+        "size": 136167
+    }
+}2022-02-02 13:25:02
+arr: {
+    "receipt_file": {
+        "name": "1_1643298364.jpg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpc4SLXy",
+        "error": 0,
+        "size": 136167
+    }
+}2022-02-02 13:25:17
+arr: {
+    "receipt_file": {
+        "name": "1_1643298364.jpg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/php3GOr1M",
+        "error": 0,
+        "size": 136167
+    }
+}2022-02-02 13:25:49
+arr: {
+    "receipt_file": {
+        "name": "1_1643298364.jpg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpeKjZJm",
+        "error": 0,
+        "size": 136167
+    }
+}2022-02-02 16:31:24
+arr: {
+    "receipt_file": {
+        "name": "1_1643298364.jpg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpEOkQoB",
+        "error": 0,
+        "size": 136167
+    }
+}2022-02-02 17:06:23
+arr: {
+    "receipt_file": {
+        "name": "1_1643298364.jpg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpMONiDC",
+        "error": 0,
+        "size": 136167
+    }
+}

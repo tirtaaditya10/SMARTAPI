@@ -1,0 +1,49 @@
+
+2022-01-03 19:21:20
+loyalty
+{
+    "Host": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Client-IP": "103.43.45.16",
+    "X-Client-Port": "42064",
+    "Connection": "Keep-Alive",
+    "Content-Length": "356",
+    "Cache-Control": "no-cache",
+    "Content-Type": "multipart\/form-data; boundary=----WebKitFormBoundarywbYZbcXwoxV8BCnN",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjQxMjEyNDM0LCJleHAiOjE2NDEyMTYwMzR9.qVt8MEC0O0tMkPddk3He5dvGxwemu5KG9q8wk2E4fUc",
+    "Cookie": "ci_session=8f31dfe5c56a53935bc7b15ab0e66c5abe0fc0ec",
+    "Max-Forwards": "10",
+    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/96.0.4664.110 Safari\/537.36",
+    "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"96\", \"Google Chrome\";v=\"96\"",
+    "sec-ch-ua-mobile": "?0",
+    "command": "redeem_history",
+    "Postman-Token": "34a84ba3-56ff-6059-d53c-9021542ab773",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "Origin": "chrome-extension:\/\/fhbjgbiflinjbdggehcddcbncdddomop",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Dest": "empty",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "103.43.45.16:42064",
+    "X-ARR-LOG-ID": "4307614e-332e-4af2-8a22-7d1409e72d49",
+    "DISGUISED-HOST": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "nidn-dv-loyaidb2c-solution-asse-08-app",
+    "WAS-DEFAULT-HOSTNAME": "nidn-dv-loyaidb2c-solution-asse-08-app.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "103.43.45.16:42064",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "cpid": "loyaltyweb",
+    "cpassword": "loyaltyweb@wcrm!",
+    "customer_id": "1"
+}
+{
+    "status_code": "111",
+    "data": {
+        "msg": "Customer Is Not Member"
+    }
+}

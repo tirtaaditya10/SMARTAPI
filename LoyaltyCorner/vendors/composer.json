@@ -1,0 +1,17 @@
+{
+    "require": {
+        "smarty/smarty": "^3.1",
+        "phpoffice/phpword": "dev-master",
+        "phpoffice/phppresentation": "dev-master",
+        "phpoffice/phpproject": "dev-master",
+        "phpoffice/phpspreadsheet": "^1.6",
+        "mpdf/mpdf": "^7.1",
+        "dompdf/dompdf": "^0.8.2",
+        "jpgraph/jpgraph": "^4.0",
+        "knplabs/knp-snappy": "^1.0",
+        "nuovo/spreadsheet-reader": "^0.5.11",
+        "tecnickcom/tcpdf": "^6.2",
+        "firebase/php-jwt": "^5.0",
+        "chriskacerguis/codeigniter-restserver": "^3.0"
+    }
+}

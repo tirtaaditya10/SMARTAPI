@@ -1,0 +1,37 @@
+2021-10-25 16:59:42
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpNSBY79",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-25 17:02:39
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpz5nPmD",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-25 22:07:38
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phptBlIv2",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-25 22:07:46
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpJA2S8m",
+        "error": 0,
+        "size": 10999
+    }
+}

@@ -1,0 +1,5 @@
+open ftp://backupftp:NeedBackup@158.140.178.42 -passive=on 
+option transfer binary
+cd Project/Wyeth/StrukLoyaltyCorner
+put 2018
+exit

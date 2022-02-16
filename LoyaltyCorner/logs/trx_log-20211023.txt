@@ -1,0 +1,693 @@
+
+2021-10-23 02:35:29
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "63999",
+    "Connection": "Keep-Alive",
+    "Content-Length": "409",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------165435229966079114662866",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjMyMzgyNDQ1LCJleHAiOjE2MzIzODYwNDV9.6xICUSxx35-THFVsS79FXTx9fIRXkStBH1xVrWDD1PY",
+    "Max-Forwards": "10",
+    "command": "tiering_level, request_token",
+    "Postman-Token": "e49f4016-33a7-4147-ac59-212f63262f64",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:63999",
+    "X-ARR-LOG-ID": "8d6e140f-c98e-410e-b0b7-b754ca76208c",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:63999",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "cpid": "loyaltyweb",
+    "cpassword": "loyaltyweb@wcrm!",
+    "customer_id": "105916"
+}
+{
+    "status_code": "101",
+    "data": {
+        "msg": "Unknown \/ Invalid Resource"
+    }
+}
+
+2021-10-23 02:37:03
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "64061",
+    "Connection": "Keep-Alive",
+    "Content-Length": "409",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------089753413014290257755386",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM0OTMxMzkyLCJleHAiOjE2MzQ5MzQ5OTJ9.zMP1wBA79IBJeXDNrW2Xq0axWdvVt2ZWI9XKEUVltjE",
+    "Cookie": "ci_session=9071f6fe4368b2c5034b66d89d561443a2239f4b",
+    "Max-Forwards": "10",
+    "command": "tiering_level, request_token",
+    "Postman-Token": "e4cebfb9-dbcb-4905-8a3a-0a02d7f21a85",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:64061",
+    "X-ARR-LOG-ID": "36e1bc05-29ef-47ad-8c66-4b9e37bce20f",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:64061",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "cpid": "loyaltyweb",
+    "cpassword": "loyaltyweb@wcrm!",
+    "customer_id": "105916"
+}
+{
+    "status_code": "101",
+    "data": {
+        "msg": "Unknown \/ Invalid Resource"
+    }
+}
+
+2021-10-23 02:49:06
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "56069",
+    "Connection": "Keep-Alive",
+    "Content-Length": "409",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------928551956777680964498050",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM0OTMxMzkyLCJleHAiOjE2MzQ5MzQ5OTJ9.zMP1wBA79IBJeXDNrW2Xq0axWdvVt2ZWI9XKEUVltjE",
+    "Cookie": "ci_session=9071f6fe4368b2c5034b66d89d561443a2239f4b",
+    "Max-Forwards": "10",
+    "command": "tiering_level, request_token",
+    "Postman-Token": "15687804-32ec-4454-bf75-e0c0c31c6d4c",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:56069",
+    "X-ARR-LOG-ID": "ef15020f-63a2-4bfc-9c8c-9c1c18c5835a",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:56069",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "cpid": "loyaltyweb",
+    "cpassword": "loyaltyweb@wcrm!",
+    "customer_id": "105916"
+}
+{
+    "status_code": "101",
+    "data": {
+        "msg": "Unknown \/ Invalid Resource"
+    }
+}
+
+2021-10-23 02:49:30
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "56070",
+    "Connection": "Keep-Alive",
+    "Content-Length": "409",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------512219971410858334884085",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM0OTMxMzkyLCJleHAiOjE2MzQ5MzQ5OTJ9.zMP1wBA79IBJeXDNrW2Xq0axWdvVt2ZWI9XKEUVltjE",
+    "Cookie": "ci_session=a2c0050b6df7b249837225e0a1b8bd8bfada10a2",
+    "Max-Forwards": "10",
+    "command": "tiering_level, request_token",
+    "Postman-Token": "23fe0965-c561-4e5b-a187-bd8e6771bf3a",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:56070",
+    "X-ARR-LOG-ID": "f2b7c834-ad65-4790-8b9c-dcc410df1f72",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:56070",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "cpid": "loyaltyweb",
+    "cpassword": "loyaltyweb@wcrm!",
+    "customer_id": "105916"
+}
+{
+    "status_code": "101",
+    "data": {
+        "msg": "Unknown \/ Invalid Resource"
+    }
+}
+
+2021-10-23 03:01:33
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "60550",
+    "Connection": "Keep-Alive",
+    "Content-Length": "409",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------511820741417410618133789",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM0OTMxMzkyLCJleHAiOjE2MzQ5MzQ5OTJ9.zMP1wBA79IBJeXDNrW2Xq0axWdvVt2ZWI9XKEUVltjE",
+    "Cookie": "ci_session=a2c0050b6df7b249837225e0a1b8bd8bfada10a2",
+    "Max-Forwards": "10",
+    "command": "tiering_level",
+    "Postman-Token": "fc7b4ba9-1e2e-46c4-b506-c92ea9e7d62b",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:60550",
+    "X-ARR-LOG-ID": "84dbd169-ed92-4f8f-88fd-84ba151f46cf",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:60550",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "cpid": "loyaltyweb",
+    "cpassword": "loyaltyweb@wcrm!",
+    "customer_id": "105916"
+}
+{
+    "status_code": "110",
+    "data": {
+        "msg": "Customer Is Not Exist"
+    }
+}
+
+2021-10-23 03:01:51
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "60551",
+    "Connection": "Keep-Alive",
+    "Content-Length": "409",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------580251321917053683128833",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM0OTMxMzkyLCJleHAiOjE2MzQ5MzQ5OTJ9.zMP1wBA79IBJeXDNrW2Xq0axWdvVt2ZWI9XKEUVltjE",
+    "Cookie": "ci_session=a2c0050b6df7b249837225e0a1b8bd8bfada10a2",
+    "Max-Forwards": "10",
+    "command": "tiering_level",
+    "Postman-Token": "be31b9ef-1891-4e90-bd52-a4428226ef7d",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:60551",
+    "X-ARR-LOG-ID": "dfc4b01e-3888-44da-8a15-52eaa160c95d",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:60551",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "cpid": "loyaltyweb",
+    "cpassword": "loyaltyweb@wcrm!",
+    "customer_id": "105920"
+}
+{
+    "status_code": "110",
+    "data": {
+        "msg": "Customer Is Not Exist"
+    }
+}
+
+2021-10-23 03:04:28
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "57177",
+    "Connection": "Keep-Alive",
+    "Content-Length": "409",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------581232574513460897818091",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM0OTMxMzkyLCJleHAiOjE2MzQ5MzQ5OTJ9.zMP1wBA79IBJeXDNrW2Xq0axWdvVt2ZWI9XKEUVltjE",
+    "Cookie": "ci_session=a2c0050b6df7b249837225e0a1b8bd8bfada10a2",
+    "Max-Forwards": "10",
+    "command": "tiering_level",
+    "Postman-Token": "499bbdca-433e-4af6-ae29-c33ccf6473d7",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:57177",
+    "X-ARR-LOG-ID": "77d59d6c-cf73-469b-8bb6-527f4929fd9e",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:57177",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "cpid": "loyaltyweb",
+    "cpassword": "loyaltyweb@wcrm!",
+    "customer_id": "105920"
+}
+{
+    "status_code": "110",
+    "data": {
+        "msg": "Customer Is Not Exist"
+    }
+}
+
+2021-10-23 12:24:21
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "64097",
+    "Connection": "Keep-Alive",
+    "Content-Length": "409",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------707403657052302699738359",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM0OTMxMzkyLCJleHAiOjE2MzQ5MzQ5OTJ9.zMP1wBA79IBJeXDNrW2Xq0axWdvVt2ZWI9XKEUVltjE",
+    "Max-Forwards": "10",
+    "command": "member_info",
+    "Postman-Token": "4f4c021d-fd81-4a10-ab3c-826a0defd640",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:64097",
+    "X-ARR-LOG-ID": "8bffc966-3d11-4c17-a13f-6ed73661e068",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:64097",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "cpid": "loyaltyweb",
+    "cpassword": "loyaltyweb@wcrm!",
+    "customer_id": "105920"
+}
+{
+    "status_code": "401",
+    "data": {
+        "msg": "Token Expire"
+    }
+}
+
+2021-10-23 12:34:15
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "56612",
+    "Connection": "Keep-Alive",
+    "Content-Length": "409",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------452302493118338184539176",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM0OTMxMzkyLCJleHAiOjE2MzQ5MzQ5OTJ9.zMP1wBA79IBJeXDNrW2Xq0axWdvVt2ZWI9XKEUVltjE",
+    "Cookie": "ci_session=c9385c049492b508872a0f94047c990abd08b5fc",
+    "Max-Forwards": "10",
+    "command": "member_info",
+    "Postman-Token": "3733ce13-b78a-465e-9271-5e669a37b157",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:56612",
+    "X-ARR-LOG-ID": "9200717d-8b53-4e6b-9315-55cb231f710e",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:56612",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "cpid": "loyaltyweb",
+    "cpassword": "loyaltyweb@wcrm!",
+    "customer_id": "105920"
+}
+{
+    "status_code": "401",
+    "data": {
+        "msg": "Token Expire"
+    }
+}
+
+2021-10-23 12:34:30
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "56626",
+    "Connection": "Keep-Alive",
+    "Content-Length": "409",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------679257978853167093857848",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM0OTMxMzkyLCJleHAiOjE2MzQ5MzQ5OTJ9.zMP1wBA79IBJeXDNrW2Xq0axWdvVt2ZWI9XKEUVltjE",
+    "Cookie": "ci_session=c9385c049492b508872a0f94047c990abd08b5fc",
+    "Max-Forwards": "10",
+    "command": "member_info, request_token",
+    "Postman-Token": "3b3fee51-c28d-49bc-a94f-d4a21d927c9f",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:56626",
+    "X-ARR-LOG-ID": "27738279-387b-4e8f-8f6b-765b4c5a2b56",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:56626",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "cpid": "loyaltyweb",
+    "cpassword": "loyaltyweb@wcrm!",
+    "customer_id": "105920"
+}
+{
+    "status_code": "101",
+    "data": {
+        "msg": "Unknown \/ Invalid Resource"
+    }
+}
+
+2021-10-23 14:56:21
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "56738",
+    "Connection": "Keep-Alive",
+    "Content-Length": "409",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------890937574242069515294377",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM0OTY3MjgwLCJleHAiOjE2MzQ5NzA4ODB9.lFMimE2MPKrMTFlpm80G0SQsDntwEwyibu1SIZxTVG4",
+    "Max-Forwards": "10",
+    "command": "member_info",
+    "Postman-Token": "caf801a8-cbac-4ccd-97a8-f7857492f4b8",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:56738",
+    "X-ARR-LOG-ID": "25da634a-3f33-422e-bdb2-18ce4ce3686d",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:56738",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "cpid": "loyaltyweb",
+    "cpassword": "loyaltyweb@wcrm!",
+    "customer_id": "105920"
+}
+{
+    "status_code": "401",
+    "data": {
+        "msg": "Token Expire"
+    }
+}
+
+2021-10-23 14:56:38
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "50528",
+    "Connection": "Keep-Alive",
+    "Content-Length": "409",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------164816616922163718562074",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM0OTY3MjgwLCJleHAiOjE2MzQ5NzA4ODB9.lFMimE2MPKrMTFlpm80G0SQsDntwEwyibu1SIZxTVG4",
+    "Cookie": "ci_session=9f1e6c9d161d66b5b448bcdb1e3bade136a7165e",
+    "Max-Forwards": "10",
+    "command": "member_info, request_token",
+    "Postman-Token": "c16f6b6b-3308-4ae1-8754-5649b4ad0310",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:50528",
+    "X-ARR-LOG-ID": "fb045c99-2396-44b2-8876-db6f85404f44",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:50528",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "cpid": "loyaltyweb",
+    "cpassword": "loyaltyweb@wcrm!",
+    "customer_id": "105920"
+}
+{
+    "status_code": "101",
+    "data": {
+        "msg": "Unknown \/ Invalid Resource"
+    }
+}
+
+2021-10-23 15:03:29
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "64175",
+    "Connection": "Keep-Alive",
+    "Content-Length": "11450",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------635874786515431880941378",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM0OTc1ODA5LCJleHAiOjE2MzQ5Nzk0MDl9.VM6YwV_COiLOPAVQYjCjHBSe1Uynk9htaf4K7UL-uQw",
+    "Cookie": "ci_session=1f0a7b9362b0fd97f7eb3078c0f2a8867873c045",
+    "Max-Forwards": "10",
+    "command": "receipt_upload",
+    "Postman-Token": "5629d751-b7d7-40c4-b08a-691a881f64f2",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:64175",
+    "X-ARR-LOG-ID": "40296214-0c76-496f-9731-7c060bfb945c",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:64175",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "customer_id": "349238",
+    "receipt_ref": "FROM AZURE"
+}
+{
+    "status_code": "130",
+    "data": {
+        "msg": "Upload Error, Failed to move uploaded file"
+    }
+}
+
+2021-10-23 15:58:09
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "60801",
+    "Connection": "Keep-Alive",
+    "Content-Length": "11441",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------948449234097954227753582",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM0OTc1ODA5LCJleHAiOjE2MzQ5Nzk0MDl9.VM6YwV_COiLOPAVQYjCjHBSe1Uynk9htaf4K7UL-uQw",
+    "Cookie": "ci_session=6f8e35f8b347dd534a808b9fd349d0109d001ec7",
+    "Max-Forwards": "10",
+    "command": "receipt_upload",
+    "Postman-Token": "1721a13c-b925-44ec-9184-2e35b50b2d69",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:60801",
+    "X-ARR-LOG-ID": "66ad7cf5-cff5-4aac-ad5b-44473f324997",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:60801",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "customer_id": "349238",
+    "receipt_ref": "1"
+}
+{
+    "status_code": "401",
+    "data": {
+        "msg": "Token Expire"
+    }
+}
+
+2021-10-23 15:59:25
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "58679",
+    "Connection": "Keep-Alive",
+    "Content-Length": "11441",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------440893725381033589390564",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM0OTc1ODA5LCJleHAiOjE2MzQ5Nzk0MDl9.VM6YwV_COiLOPAVQYjCjHBSe1Uynk9htaf4K7UL-uQw",
+    "Cookie": "ci_session=6f8e35f8b347dd534a808b9fd349d0109d001ec7",
+    "Max-Forwards": "10",
+    "command": "receipt_upload",
+    "Postman-Token": "507e0244-90a6-4515-8dfb-f83e544ed7d6",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:58679",
+    "X-ARR-LOG-ID": "91893895-5406-468a-b8eb-4c7f76e2021d",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:58679",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "customer_id": "349238",
+    "receipt_ref": "1"
+}
+{
+    "status_code": "401",
+    "data": {
+        "msg": "Token Expire"
+    }
+}
+
+2021-10-23 16:00:40
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "53584",
+    "Connection": "Keep-Alive",
+    "Content-Length": "11441",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------140518953248558048293072",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM0OTc1ODA5LCJleHAiOjE2MzQ5Nzk0MDl9.VM6YwV_COiLOPAVQYjCjHBSe1Uynk9htaf4K7UL-uQw",
+    "Cookie": "ci_session=6f8e35f8b347dd534a808b9fd349d0109d001ec7",
+    "Max-Forwards": "10",
+    "command": "receipt_upload",
+    "Postman-Token": "9372dc13-f8a6-433b-aca4-34b3c0276a77",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:53584",
+    "X-ARR-LOG-ID": "929eba6d-e8ca-4c5d-b75a-729d8a04da56",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:53584",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "customer_id": "349238",
+    "receipt_ref": "1"
+}
+{
+    "status_code": "401",
+    "data": {
+        "msg": "Token Expire"
+    }
+}
+
+2021-10-23 16:04:28
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "64584",
+    "Connection": "Keep-Alive",
+    "Content-Length": "11441",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------759304439621830193449523",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM0OTc1ODA5LCJleHAiOjE2MzQ5Nzk0MDl9.VM6YwV_COiLOPAVQYjCjHBSe1Uynk9htaf4K7UL-uQw",
+    "Cookie": "ci_session=6f8e35f8b347dd534a808b9fd349d0109d001ec7",
+    "Max-Forwards": "10",
+    "command": "receipt_upload",
+    "Postman-Token": "dacee398-2de1-4934-be7c-96dd36b4734e",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:64584",
+    "X-ARR-LOG-ID": "8e5286aa-a871-4dea-88fe-c7d08319c3ca",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:64584",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "customer_id": "349238",
+    "receipt_ref": "1"
+}
+{
+    "status_code": "401",
+    "data": {
+        "msg": "Token Expire"
+    }
+}
+
+2021-10-23 16:05:53
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "64044",
+    "Connection": "Keep-Alive",
+    "Content-Length": "11441",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------144407835845370474656120",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM0OTc1ODA5LCJleHAiOjE2MzQ5Nzk0MDl9.VM6YwV_COiLOPAVQYjCjHBSe1Uynk9htaf4K7UL-uQw",
+    "Cookie": "ci_session=2752d2f9c8dafa58ca4ba233be30dd84ef933f80",
+    "Max-Forwards": "10",
+    "command": "request_token",
+    "Postman-Token": "5fb61e5a-82e7-4972-b95d-fae08a2a7eee",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:64044",
+    "X-ARR-LOG-ID": "09d23c0d-695d-4d76-a743-689ec460271f",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:64044",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "customer_id": "349238",
+    "receipt_ref": "1"
+}
+{
+    "status_code": "100",
+    "data": {
+        "msg": "Incorrect \/ Insufficient Parameter"
+    }
+}
+
+2021-10-23 17:11:34
+loyalty
+{
+    "Host": "sdp2test.azurewebsites.net",
+    "X-Client-IP": "202.80.215.104",
+    "X-Client-Port": "49225",
+    "Connection": "Keep-Alive",
+    "Content-Length": "11441",
+    "Content-Type": "multipart\/form-data; boundary=--------------------------498820116427987131145617",
+    "Authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c3IiOiJsb3lhbHR5d2ViIiwiaWF0IjoxNjM0OTc5OTY4LCJleHAiOjE2MzQ5ODM1Njh9.K15cNqKmH84vZ3BdaunD1lxLLhBvi39RJqoNwtJc9cE",
+    "Cookie": "ci_session=7af9197a0e050534fef3faf0911d30aeb919e8d4",
+    "Max-Forwards": "10",
+    "command": "receipt_upload",
+    "Postman-Token": "0ac0c602-0d03-4de3-b06d-069325a13262",
+    "X-WAWS-Unencoded-URL": "\/LoyaltyCorner\/loyalty",
+    "CLIENT-IP": "202.80.215.104:49225",
+    "X-ARR-LOG-ID": "bb4f2cf0-57cc-41ca-9fcf-f12811a93652",
+    "DISGUISED-HOST": "sdp2test.azurewebsites.net",
+    "X-SITE-DEPLOYMENT-ID": "sdp2test",
+    "WAS-DEFAULT-HOSTNAME": "sdp2test.azurewebsites.net",
+    "X-Original-URL": "\/LoyaltyCorner\/loyalty",
+    "X-Forwarded-For": "202.80.215.104:49225",
+    "X-ARR-SSL": "2048|256|C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02|CN=*.azurewebsites.net",
+    "X-Forwarded-Proto": "https",
+    "X-AppService-Proto": "https",
+    "X-Forwarded-TlsVersion": "1.2",
+    "customer_id": "349238",
+    "receipt_ref": "1"
+}
+{
+    "status_code": "401",
+    "data": {
+        "msg": "Token Expire"
+    }
+}

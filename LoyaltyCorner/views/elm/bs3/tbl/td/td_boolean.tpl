@@ -1,0 +1,1 @@
+<td class="text-center">{if $i.$name}<i class="fa fa-check txt-color-green"></i>{/if}</td>

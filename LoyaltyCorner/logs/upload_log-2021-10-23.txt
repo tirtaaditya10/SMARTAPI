@@ -1,0 +1,244 @@
+2021-10-23 15:01:37
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/php9UhHQc",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 15:03:28
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpgZdSgU",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 15:06:07
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpsASbFB",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 15:07:23
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpcQFMhO",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 15:11:52
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpn2SJF8",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 15:17:26
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpJZk7Me",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 15:19:07
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/php6Ou0dt",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 15:19:39
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpefwcB3",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 15:20:38
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phptUQPgf",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 15:22:54
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpjSDaVQ",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 15:24:12
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpGCdHfv",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 15:28:02
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpW5PXKg",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 15:39:48
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpqivWMd",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 15:41:35
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpEBO8Kn",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 15:42:32
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpwpWDRX",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 15:56:10
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phptfQYvN",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 15:58:07
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpHKGXV1",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 15:59:24
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpva3MU4",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 16:00:38
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpplVE1T",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 16:04:26
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpTfw6Ol",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 16:06:37
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/php9PYsgr",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 16:15:03
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpdWjObY",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 16:16:50
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/php3OO8Xy",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 16:20:49
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpCSq7rs",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 16:23:17
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpbcexC9",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 16:43:03
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpLSxRHm",
+        "error": 0,
+        "size": 10999
+    }
+}2021-10-23 17:11:32
+arr: {
+    "receipt_file": {
+        "name": "Test.jpeg",
+        "type": "image\/jpeg",
+        "tmp_name": "\/tmp\/phpf8gNqc",
+        "error": 0,
+        "size": 10999
+    }
+}
