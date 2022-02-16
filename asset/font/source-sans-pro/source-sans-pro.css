@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 200;
+    src: local('Source Sans Pro ExtraLight'), local('SourceSansPro-ExtraLight'),
+    url('Source Sans Pro ExtraLight.woff2') format('woff2'),
+    url('Source Sans Pro ExtraLight.woff') format('woff');
+}
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Source Sans Pro Light'), local('SourceSansPro-Light'),
+    url('Source Sans Pro Light.woff2') format('woff2'),
+    url('Source Sans Pro Light.woff') format('woff');
+}
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Source Sans Pro'), local('SourceSansPro-Regular'),
+    url('Source Sans Pro.woff2') format('woff2'),
+    url('Source Sans Pro.woff') format('woff');
+}
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Source Sans Pro Semibold'), local('SourceSansPro-Semibold'),
+    url('Source Sans Pro Semibold.woff2') format('woff2'),
+    url('Source Sans Pro Semibold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'),
+    url('Source Sans Pro Bold.woff2') format('woff2'),
+    url('Source Sans Pro Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Source Sans Pro Black'), local('SourceSansPro-Black'),
+    url('Source Sans Pro Black.woff2') format('woff2'),
+    url('Source Sans Pro Black.woff') format('woff');
+}

@@ -1,0 +1,39 @@
+.form-compact {
+	font-size: 0.9em;
+}
+
+.form-compact .form-control {
+	padding: 1px 2px;
+	height: 24px;
+	font-size:1em;
+}
+.form-compact label {
+	margin-bottom: 1px;
+}
+.form-compact .form-group
+{
+	margin-bottom:0px;
+}
+.form-compact .input-group-addon {
+	padding: 3px 8px;
+	border-radius: 0;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	transition: background-color .3s;
+	-o-transition: background-color .3s;
+	-ms-transition: background-color .3s;
+	-moz-transition: background-color .3s;
+	-webkit-transition: background-color .3s;
+}
+.form-compact .btn {
+	padding: 3px 8px;
+	font-size: 10px;
+}
+.form-compact .checkbox, .smart-form .radio {
+	margin-bottom: 2px;
+	padding-left: 25px;
+	line-height: 20px;
+	color: #404040;
+	cursor: pointer;
+	font-size: 0.9em;
+}
